@@ -13,9 +13,9 @@ const __filename = fileURLToPath(import.meta.url);
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ["6282113821188"] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
+global.owner = ["6283192953573"] // ['628','628'] 2 owner atau lebih
+global.author = 'kayrizz'
+global.botname = 'bila bot'
 global.packname = 'Bot WhatsApp'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
