@@ -4320,7 +4320,7 @@ Select Bot Settings:
 				}
 				const menunya = `
 ╭──❍「 *USER INFO* 」❍
-├ *Nama* : ${m.pushName ? m.pushName : 'Tanpa Nama'}
+├ *Nama* : ${m.pushName ? m.pushName : 'kayrizz'}
 ├ *Id* : @${m.sender.split('@')[0]}
 ├ *User* : ${isVip ? 'VIP' : isPremium ? 'PREMIUM' : 'FREE'}
 ├ *Limit* : ${isVip ? 'VIP' : db.users[m.sender].limit }
